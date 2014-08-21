@@ -1,3 +1,3 @@
-what is this file for?
-
-edited via web
+mono version of System.Data.SQLite.dll
+refer to https://system.data.sqlite.org/index.html/doc/trunk/www/build.wiki#mono
+mono version using native sqlite3.dll instead of SQLite.Interop.dll
